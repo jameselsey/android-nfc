@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+
+.idea/
+*.iml
+android-nfc/target/
+android-nfc-it/target/
